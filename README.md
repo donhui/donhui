@@ -14,69 +14,61 @@
   <a href="https://www.jenkins.io/blog/authors/donhui/">Jenkins Blog</a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-Focused-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Practical-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jenkins-Plugins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Tooling-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 
-## Profile
+---
 
 I build practical tooling for software delivery, code quality, and developer workflows.
 
-My long-term focus is on helping engineering teams improve:
+<details>
+<summary>Selected Work</summary>
 
-- CI/CD reliability
-- DevOps automation
-- developer productivity
-- engineering effectiveness
-- delivery safety and code quality
+| Project | Stars | Area | Notes |
+| --- | --- | --- | --- |
+| [secret-guard-plugin](https://github.com/jenkinsci/secret-guard-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/secret-guard-plugin?style=social) | Jenkins / Security | Secret detection and delivery guardrails for Jenkins |
+| [chinese-workday-plugin](https://github.com/jenkinsci/chinese-workday-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/chinese-workday-plugin?style=social) | Jenkins / Calendar | Chinese workday and holiday calendar support |
+| [maven-snapshot-check-plugin](https://github.com/jenkinsci/maven-snapshot-check-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/maven-snapshot-check-plugin?style=social) | Jenkins / Maven | Detect `SNAPSHOT` dependencies in Maven builds |
+| [sonar-mybatis](https://github.com/donhui/sonar-mybatis) | ![stars](https://img.shields.io/github/stars/donhui/sonar-mybatis?style=social) | SonarQube / SQL | MyBatis plugin for SonarQube |
+| [jenkins-plugins-word-cloud](https://github.com/donhui/jenkins-plugins-word-cloud) | ![stars](https://img.shields.io/github/stars/donhui/jenkins-plugins-word-cloud?style=social) | Jenkins / Data | Visual exploration of the Jenkins plugin ecosystem |
+| [awesome-tech-lead](https://github.com/donhui/awesome-tech-lead) | ![stars](https://img.shields.io/github/stars/donhui/awesome-tech-lead?style=social) | Curation | Curated resources for Tech Leads |
+| [awesome-uv](https://github.com/donhui/awesome-uv) | ![stars](https://img.shields.io/github/stars/donhui/awesome-uv?style=social) | Python / Curation | Curated projects using `uv` |
+| [awesome-jenkins-monitor](https://github.com/donhui/awesome-jenkins-monitor) | ![stars](https://img.shields.io/github/stars/donhui/awesome-jenkins-monitor?style=social) | Jenkins / Monitoring | Jenkins monitoring resources |
 
-## Selected Work
+</details>
 
-### Jenkins
+<details>
+<summary>Open Source Contributions</summary>
 
-- [jenkinsci/secret-guard-plugin](https://github.com/jenkinsci/secret-guard-plugin)  
-  Jenkins plugin for secret detection and delivery guardrails.
+| Project | Stars | Area | Contribution Focus |
+| --- | --- | --- | --- |
+| [devopshq/artifactory](https://github.com/devopshq/artifactory) | ![stars](https://img.shields.io/github/stars/devopshq/artifactory?style=social) | Python / DevOps | Contributions to the Python client for JFrog Artifactory |
+| [jenkinsci/explain-error-plugin](https://github.com/jenkinsci/explain-error-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/explain-error-plugin?style=social) | Jenkins / AI | Contributions to AI-assisted Jenkins failure analysis |
+| Jenkins community plugins |  | Jenkins / CI/CD | Practical improvements for real-world delivery workflows |
 
-- [jenkinsci/chinese-workday-plugin](https://github.com/jenkinsci/chinese-workday-plugin)  
-  Jenkins plugin for Chinese workday and holiday calendar support.
+</details>
 
-- [jenkinsci/maven-snapshot-check-plugin](https://github.com/jenkinsci/maven-snapshot-check-plugin)  
-  Detect `SNAPSHOT` dependencies in Maven builds.
-
-- [donhui/jenkins-plugins-word-cloud](https://github.com/donhui/jenkins-plugins-word-cloud)  
-  Explore the Jenkins plugin ecosystem visually.
-
-### Quality and Guardrails
-
-- [donhui/sonar-mybatis](https://github.com/donhui/sonar-mybatis)  
-  MyBatis plugin for SonarQube.
-
-### Knowledge and Curation
-
-- [donhui/awesome-tech-lead](https://github.com/donhui/awesome-tech-lead)  
-  Curated resources for Tech Leads.
-
-- [donhui/awesome-jenkins-monitor](https://github.com/donhui/awesome-jenkins-monitor)  
-  Jenkins monitoring resources.
-
-## Open Source Contributions
-
-I also contribute across the CI/CD and DevOps ecosystem, including:
-
-- [devopshq/artifactory](https://github.com/devopshq/artifactory)
-- [jenkinsci/explain-error-plugin](https://github.com/jenkinsci/explain-error-plugin)
-- Jenkins community plugins and related tooling
-
-## Writing
-
-I write about Jenkins plugins and practical engineering topics on the Jenkins community blog.
+<details>
+<summary>Writing</summary>
 
 - [Author Page](https://www.jenkins.io/blog/authors/donhui/)
 - [Introducing the Secret Guard Plugin](https://www.jenkins.io/blog/2026/04/30/introducing-secret-guard-plugin/)
 - [Introducing the Chinese Workday Plugin](https://www.jenkins.io/blog/2026/03/22/introducing-chinese-workday-plugin/)
 
-## Principles
+</details>
+
+<details>
+<summary>Principles</summary>
 
 - build useful things
 - reduce repeated manual work
 - prefer clear systems over clever systems
 - improve delivery without increasing operational burden
-- make engineering workflows safer, simpler, and easier to sustain
+
+</details>
