@@ -28,7 +28,7 @@
 I build practical tooling for software delivery, code quality, and developer workflows.
 
 <details>
-<summary>Selected Work</summary>
+<summary>Maintained Projects</summary>
 
 | Project | Stars | Area | Notes |
 | --- | --- | --- | --- |
@@ -57,9 +57,9 @@ I build practical tooling for software delivery, code quality, and developer wor
 <details>
 <summary>Writing</summary>
 
-- [Author Page](https://www.jenkins.io/blog/authors/donhui/)
-- [Introducing the Secret Guard Plugin](https://www.jenkins.io/blog/2026/04/30/introducing-secret-guard-plugin/)
-- [Introducing the Chinese Workday Plugin](https://www.jenkins.io/blog/2026/03/22/introducing-chinese-workday-plugin/)
+- [Jenkins Blog](https://www.jenkins.io/blog/authors/donhui/)
+  - [Introducing the Secret Guard Plugin](https://www.jenkins.io/blog/2026/04/30/introducing-secret-guard-plugin/)
+  - [Introducing the Chinese Workday Plugin](https://www.jenkins.io/blog/2026/03/22/introducing-chinese-workday-plugin/)
 
 </details>
 
