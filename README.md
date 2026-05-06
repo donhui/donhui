@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  CI/CD · DevOps · Developer Productivity · Engineering Effectiveness
+  CI/CD · DevOps · Platform Engineering · Engineering Effectiveness
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 I build practical tooling for software delivery, code quality, and developer workflows.
 
 <details>
-<summary>Maintained Projects</summary>
+<summary>Projects I Maintain</summary>
 
 | Project | Stars | Area | Notes |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ I build practical tooling for software delivery, code quality, and developer wor
 </details>
 
 <details>
-<summary>Open Source Contributions</summary>
+<summary>Projects I Contribute To</summary>
 
 | Project | Stars | Area | Contribution Focus |
 | --- | --- | --- | --- |
