@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/donhui">GitHub</a> ·
-  <a href="https://my.oschina.net/donhui">OSChina</a> ·
+  <a href="https://my.oschina.net/donhui?key=blog">OSChina Blog</a> ·
   <a href="https://www.jenkins.io/blog/authors/donhui/">Jenkins Blog</a>
 </p>
 
