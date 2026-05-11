@@ -48,8 +48,9 @@ I build practical tooling for software delivery, code quality, and developer wor
 
 | Project | Stars | Area | Contribution Focus |
 | --- | --- | --- | --- |
-| [devopshq/artifactory](https://github.com/devopshq/artifactory) | ![stars](https://img.shields.io/github/stars/devopshq/artifactory?style=social) | Python / DevOps | Contributions to the Python client for JFrog Artifactory |
-| [jenkinsci/explain-error-plugin](https://github.com/jenkinsci/explain-error-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/explain-error-plugin?style=social) | Jenkins / AI | Contributions to AI-assisted Jenkins failure analysis |
+| [devopshq/artifactory](https://github.com/devopshq/artifactory/issues?q=is%3Amerged%20is%3Apr%20author%3Adonhui) | ![stars](https://img.shields.io/github/stars/devopshq/artifactory?style=social) | Python / DevOps | Contributions to the Python client for JFrog Artifactory |
+| [jenkinsci/explain-error-plugin](https://github.com/jenkinsci/explain-error-plugin/issues?q=is%3Amerged%20is%3Apr%20author%3Adonhui) | ![stars](https://img.shields.io/github/stars/jenkinsci/explain-error-plugin?style=social) | Jenkins / AI | Contributions to AI-assisted Jenkins failure analysis |
+| [Jenkins Job Builder](https://review.opendev.org/q/owner:977675308@qq.com+status:merged+repo:jjb/jenkins-job-builder) | | Jenkins / CI/CD | Contributions to Jenkins Job Builder |
 | Jenkins community plugins |  | Jenkins / CI/CD | Practical improvements for real-world delivery workflows |
 
 </details>
