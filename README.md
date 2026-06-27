@@ -33,6 +33,7 @@ I build practical tooling for software delivery, code quality, and developer wor
 | Project | Stars | Area | Notes |
 | --- | --- | --- | --- |
 | [secret-guard-plugin](https://github.com/jenkinsci/secret-guard-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/secret-guard-plugin?style=social) | Jenkins / Security | Secret detection and delivery guardrails for Jenkins |
+| [smart-retry-plugin](https://github.com/jenkinsci/smart-retry-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/smart-retry-plugin?style=social) | Jenkins / Retry | Safer retries for transient Jenkins failures |
 | [chinese-workday-plugin](https://github.com/jenkinsci/chinese-workday-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/chinese-workday-plugin?style=social) | Jenkins / Calendar | Chinese workday and holiday calendar support |
 | [maven-snapshot-check-plugin](https://github.com/jenkinsci/maven-snapshot-check-plugin) | ![stars](https://img.shields.io/github/stars/jenkinsci/maven-snapshot-check-plugin?style=social) | Jenkins / Maven | Detect `SNAPSHOT` dependencies in Maven builds |
 | [sonar-mybatis](https://github.com/donhui/sonar-mybatis) | ![stars](https://img.shields.io/github/stars/donhui/sonar-mybatis?style=social) | SonarQube / SQL | MyBatis plugin for SonarQube |
