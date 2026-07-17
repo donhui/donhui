@@ -62,6 +62,7 @@ I build practical tooling for software delivery, code quality, and developer wor
 - [Jenkins Blog](https://www.jenkins.io/blog/authors/donhui/)
   - [Introducing the Secret Guard Plugin](https://www.jenkins.io/blog/2026/04/30/introducing-secret-guard-plugin/)
   - [Introducing the Chinese Workday Plugin](https://www.jenkins.io/blog/2026/03/22/introducing-chinese-workday-plugin/)
+  - [Introducing Smart Retry: Safer retries for transient Jenkins failures.](https://www.jenkins.io/blog/2026/07/06/smart-retry/)
 
 </details>
 
